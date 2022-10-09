@@ -13,7 +13,7 @@ Sometimes you get errors when coding. Here are the most popular errors:
     
 &nbsp;
 
-👉 Let's try to run this code and see what error message we get. Add this code to your coding editor and hit `run`.
+👉 Try to run this code and see what error message you get. Add this code to your coding editor and hit `run`.
 
 
 ```python
