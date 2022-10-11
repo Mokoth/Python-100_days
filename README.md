@@ -4,17 +4,17 @@
 
 ## Day 1:
 
-\_Print `Hello, Mom`
+*Print* `Hello, Mom`
 
 ## Day 2:
 
-\_Input and variables
+*Input and variables*
 
 ## Day 3:
 
-\_String concatenation using `,` and `+`
+*String concatenation using* `,` and `+`
 
 ## Day 4:
 
-\_'Print' in color `\33[31m \33[0m`
-\_f-string `f {}`
+*'Print' in color* `\33[31m \33[0m`
+_f-string `f {}`
