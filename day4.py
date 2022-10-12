@@ -1,7 +1,7 @@
 # Day 4 of 100 days: Print color
 # Day 4 challenge: story line 
 # f-string for literal string interpolation = only use ' '
-# Print color using \033[31m '' \33[0m
+# Print color using ("\033[31m hello, mom \33")
 
 
 print("Welcome to your adventure simulator.")
