@@ -3,6 +3,7 @@
 # f-string for literal string interpolation = only use ' '
 # Print color using ("\033[31m hello, mom \33")
 
+# Normalize using print(sep='', end=' ')
 
 print("Welcome to your adventure simulator.")
 
