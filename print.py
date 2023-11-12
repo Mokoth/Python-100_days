@@ -1,18 +1,22 @@
-# First python code ~ day 1
+# TODO Just print
+
 print("Hello, Mom")
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
-# Multiple Print Statements
+
+# TODO Print multiple print statements
 print("Well we")
 print("just use more lines")
 print("of code")
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
-# Using triple quote """ for big chunk of text with gaps/line breaks
+
+# TODO Using triple quote """ for big chunk of text with gaps/line breaks
 print("""Anything that  starts with quotes, and ends in three quotes can
 span many lines and even contain " symbols within it without freaking anything out!""")
 
-# Common Errors
+
+# TODO Common Errors identification
 
 # NameError ~ get the name of a function wrong/misspell/get capitalization wrong
 # SyntaxError ~ have the order of symbols wrong/forget () or " "
@@ -21,7 +25,8 @@ Print("What could go wrong?")
 print "Hello Error"
 print(Please work)
 """
-# Fix my code!
+
+# TODO Fix my code!
 print("What could go wrong?")
 print ("Hello Error")
 print("Please work")
