@@ -1,4 +1,5 @@
-# Day 3 of 100 days: Concatenate
+# TODO String Concatenate
+
 # Combine strings and variables => using comma/+
 
 print("=== Your Song Generator ===")
@@ -19,7 +20,8 @@ print()
 print("There was a person called", person)
 print("Who did something cool like", thing, "at the wonderful", place, "where you'll find me", rhyme)
 
-# Challenge
+# TODO Challenge
+
 food = input("Name a type of food: ")
 plant = input("Name a plant: ")
 cookingType = input("What is a way to cook something?")
