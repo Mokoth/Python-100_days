@@ -1,22 +1,24 @@
-# Variables
+# TODO Defining a veriable
+
+# TODO Strings
 
 city = 'Kansas'
 
-# Input -> using input
+# TODO Input
 
 
-# TODO Assigning myName variable to input
-print("Getting to know you!")
+# TODO Assigning name variable to input
 
-print()
+name = input("What's your name?: ")
 
-myName = input("What's your name?: ")
-
-favoriteFood = input("What's your favorite food?:")
-
-favoriteMusic = input("What's your favorite song?: ")
-
-location = input("Where do you live?: ")
+age = int(input('Age: ')
 
 # Printing variables
-print(myName + " likes " + favoriteFood + ", and only enjoys " + favoriteMusic + " song." + "Currently residing in the bay areas of " + location)
+print(f'{name} is {age} old. She live in {city}.')
+
+
+type(name)
+
+type(age)
+
+# TODO Numbers
